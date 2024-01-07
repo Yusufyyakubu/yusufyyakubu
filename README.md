@@ -1,12 +1,10 @@
-### Hi there 👋
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yusuf Yakubu Yusuf
 ==========================================================================================================================================
 
 I am a GIS and Data Scientist
 -----------------------------
 
-* 🌍  I'm based in Kaduna
+* 🌍  I'm based in Kaduna, Nigeria
 * ✉️  You can contact me at [yusufyakubuyusuf@gmail.com](mailto:yusufyakubuyusuf@gmail.com)
 * 🧠  I'm learning Data science
 * 🤝  I'm open to collaborating on Data science and Analytics, GIS and mapping projects
