@@ -8,6 +8,7 @@ I am a GIS and Data Scientist
 * ✉️  You can contact me at [yusufyakubuyusuf@gmail.com](mailto:yusufyakubuyusuf@gmail.com)
 * 🧠  I'm learning Data science
 * 🤝  I'm open to collaborating on Data science and Analytics, GIS and mapping projects
+* Whatsapp https://wa.me/+2348066916130
 
 ### Skills
 
